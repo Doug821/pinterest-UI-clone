@@ -4,9 +4,12 @@ UI Clone - Pinterest (Homepage)
 
 <p align="center"><a href="https://pinterest.com">Pinterest Homepage</a> UI clone for study purposes.</p>
 
-<hr>
+<p align="center">
+  <img alt="Pinterest Home" src=".github/Screenshot_20210131_153255.png" width="100%">
+</p>
 
 ## Resources
 
 - [x] HTML, SCSS, JS
 - [x] SVG Images
+
